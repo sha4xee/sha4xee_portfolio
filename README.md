@@ -1,4 +1,4 @@
-# Shafi'i Muhammad Waziri   Portfolio
+# Muhammad Shafi'i Waziri   Portfolio
 
 A personal portfolio website built with plain HTML and CSS (plus a small
 vanilla-JavaScript file for the mobile menu and scroll animations).
